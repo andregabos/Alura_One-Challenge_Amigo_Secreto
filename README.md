@@ -19,5 +19,10 @@ Esse projeto foi desenvolvido como desafio para o Programa ONE da Oracle em Parc
 3. Adicione os nomes dos participantes
 4. Clique em "Sortear amigo" para realizar o sorteio
 
+OU
+
+Acesse a versão do GitHub Pages desse projeto pelo link:
+https://andregabos.github.io/Alura_One-Challenge_Amigo_Secreto/
+
 ---
 ⌨️ com ❤️ por André Gabos
